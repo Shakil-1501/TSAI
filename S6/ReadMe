@@ -25,7 +25,7 @@ Testing Accuracy Analysis is devided into 3 Parts :
   compared with L1_L2 with GBN
   
   you can check the images in github files.
-  
+  https://github.com/Shakil-1501/TSAI/blob/master/S6/accuracy.png
 
 
 _---------------------------------------Loss Function Analysis -------------------------------
@@ -40,4 +40,5 @@ _---------------------------------------Loss Function Analysis -----------------
 
 
   you can check the images in github files.
+  https://github.com/Shakil-1501/TSAI/blob/master/S6/losses.png
   
