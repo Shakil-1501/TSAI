@@ -21,7 +21,7 @@ Testing Accuracy Analysis is devided into 3 Parts :
    whereas
    L1_l2 with BN has given better accuracy for most of the epoch compared with L1_L2 with GBN
 
-  And L1_l2 with BN started with lower test accuracy and till reaching 25th Epoch gave better accuracy
+  as well as L1_l2 with BN started with lower test accuracy and till reaching 25th Epoch gave better accuracy
   compared with L1_L2 with GBN
   
   you can check the images in github files.
