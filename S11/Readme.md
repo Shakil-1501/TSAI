@@ -69,7 +69,10 @@ Write a code which uses this new ResNet Architecture for Cifar10:
  - Best Validation Accuracy : 91%  
  
 
-### Zig Zag 
+### Zig Zag Curve  One Cycle Policy Representation
+
+   ![Zig-Zag Curve](https://github.com/jagatabhay/TSAI/blob/master/S11/zigzag.png)
+   
 Author Info :
 - Facebook -- [md.shakiluzzaman](https://www.facebook.com/shakil.uzzaman.5/)
 
