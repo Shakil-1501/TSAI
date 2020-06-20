@@ -1,4 +1,6 @@
-# Session : 11                  Super Convergence
+# Session : 11                  
+
+# Super Convergence
 
 ## Objective :
 
@@ -29,21 +31,21 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 
 ---
 
-*Uses One Cycle Policy such that:*
+*Use One Cycle Policy such that:*
 - Total Epochs = 24
 - Max at Epoch = 5
 - LRMIN = FIND
 - LRMAX = FIND
 - NO Annihilation
  
- *Uses this transform*
+ *Use this transform*
  - RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
  - Batch size = 512
  - Target Accuracy: 90%.
 
 
 ## Results 
-![LR Range Test Result Graph](https://github.com/jagatabhay/TSAI/blob/master/S11/LR-Range%20Test%20Result%20Graph.PNG)
+![LR Range Test Result Graph](https://github.com/Shakil-1501/TSAI/blob/master/S11/lrfinder.png)
 
 - Maxium Learning Rate was found using LR-Range Test [Github Reference](https://github.com/davidtvs/pytorch-lr-finder/blob/master/torch_lr_finder/lr_finder.py)
   * Maximum LR = 0.01
@@ -54,21 +56,21 @@ Write a code which uses this new ResNet Architecture for Cifar10:
  [Back To Top](#Super-Convergence)
  
  ## Files
- The IPYNB file can be found [here](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Assignment.ipynb)
+ The IPYNB file can be found [here](https://github.com/Shakil-1501/TSAI/blob/master/S11/S11_Assignment.ipynb)
  
  Source code can be found below :
-  * [CustomResNet Neural Network Model](https://github.com/jagatabhay/TSAI/blob/master/S11/CustomResNet.py)
-  * [Albumentation Transformation](https://github.com/jagatabhay/TSAI/blob/master/S11/albumentationstransform.py)
-  * [Data Loader](https://github.com/jagatabhay/TSAI/blob/master/S11/dataloader.py)
-  * [LR-Range Test](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
-  * [Training DataSet](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
-  * [Testing Dataset](https://github.com/jagatabhay/TSAI/blob/master/S11/traindataset.py)
+  * [CustomResNet Neural Network Model](https://github.com/Shakil-1501/TSAI/blob/master/S11/CustomResNet.py)
+  * [Albumentation Transformation](https://github.com/Shakil-1501/TSAI/blob/master/S11/albumentationstransform.py)
+  * [Data Loader](https://github.com/Shakil-1501/TSAI/blob/master/S11/dataloader.py)
+  * [LR-Range Test](https://github.com/Shakil-1501/TSAI/blob/master/S11/LRScheduler.py)
+  * [Training DataSet](https://github.com/Shakil-1501/TSAI/blob/master/S11/traindataset.py)
+  * [Testing Dataset](https://github.com/Shakil-1501/TSAI/blob/master/S11/testdataset.py)
   
  - Best Validation Accuracy : 91%  
  
 
 ### Zig Zag 
 Author Info :
-- Facebook -- [abhaykrishn](https://www.facebook.com/abhaykrishn)
+- Facebook -- [md.shakiluzzaman](https://www.facebook.com/md shakiluzzaman)
 
 [Back To Top](#Super-Convergence)
