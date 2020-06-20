@@ -1,40 +1,74 @@
-Session : 11                  Super Convergence
+# Session : 11                  Super Convergence
 
-Assignment:
-Write a code that draws ZigZag or cyclic triangle curve (without the arrows). In submission, you'll upload your drawn curve and code for that.
-
+## Objective :
 
 Write a code which uses this new ResNet Architecture for Cifar10:
 
-1. PrepLayer - Conv 3x3 s1, p1) >> BN >> RELU [64k]
+---
+- PrepLayer - Conv 3x3 s1, p1 >> BN >> RELU [64K ]
 
-2. Layer1 -
-   2.a X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [128k]
-   2.b R1 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [128k] 
-   2.c Add(X, R1)
+- Layer 1 
+   * X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [128k]
+   * R1 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [128k] 
+   * Add(X, R1)
 
-3. Layer 2 -
-   3.a Conv 3x3 [256k]
-   3.b MaxPooling2D
-   3.c BN
-   3.d ReLU
+- Layer 2 
+   * Conv 3x3 [256k]
+   * MaxPooling2D
+   * BN
+   * ReLU
+
+- Layer 3 -
+    * X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [512k]
+    * R2 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [512k]
+    * Add(X, R2)
+
+- MaxPooling with Kernel Size 4 and Stride 2
+- Fully Connected Layer 
+- SoftMax
+
+---
+
+*Uses One Cycle Policy such that:*
+- Total Epochs = 24
+- Max at Epoch = 5
+- LRMIN = FIND
+- LRMAX = FIND
+- NO Annihilation
  
-4.Layer 3 -
-    4.a X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [512k]
-    4.b R2 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [512k]
-    4.c Add(X, R2)
-    
-5. MaxPooling with Kernel Size 4
-6. FC Layer 
-7. SoftMax
+ *Uses this transform*
+ - RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
+ - Batch size = 512
+ - Target Accuracy: 90%.
 
-Uses One Cycle Policy such that:
-  1.Total Epochs = 24
-  2. Max at Epoch = 5
-  3. LRMIN = FIND
-  4. LRMAX = FIND
-  5. NO Annihilation
+
+## Results 
+![LR Range Test Result Graph](https://github.com/jagatabhay/TSAI/blob/master/S11/LR-Range%20Test%20Result%20Graph.PNG)
+
+- Maxium Learning Rate was found using LR-Range Test [Github Reference](https://github.com/davidtvs/pytorch-lr-finder/blob/master/torch_lr_finder/lr_finder.py)
+  * Maximum LR = 0.01
+- One Cycle Policy div_factor = 10
+  * Initial Learning Rate = 0.01/10 = 0.001
+- final_div_factor = 1 as NO Annihilation
  
- Uses this transform -RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
- Batch size = 512
- Target Accuracy: 90%.
+ [Back To Top](#Super-Convergence)
+ 
+ ## Files
+ The IPYNB file can be found [here](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Assignment.ipynb)
+ 
+ Source code can be found below :
+  * [CustomResNet Neural Network Model](https://github.com/jagatabhay/TSAI/blob/master/S11/CustomResNet.py)
+  * [Albumentation Transformation](https://github.com/jagatabhay/TSAI/blob/master/S11/albumentationstransform.py)
+  * [Data Loader](https://github.com/jagatabhay/TSAI/blob/master/S11/dataloader.py)
+  * [LR-Range Test](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
+  * [Training DataSet](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
+  * [Testing Dataset](https://github.com/jagatabhay/TSAI/blob/master/S11/traindataset.py)
+  
+ - Best Validation Accuracy : 91%  
+ 
+
+### Zig Zag 
+Author Info :
+- Facebook -- [abhaykrishn](https://www.facebook.com/abhaykrishn)
+
+[Back To Top](#Super-Convergence)
