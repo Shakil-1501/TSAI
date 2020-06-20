@@ -71,6 +71,6 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 
 ### Zig Zag 
 Author Info :
-- Facebook -- [md.shakiluzzaman](https://www.facebook.com/md shakiluzzaman)
+- Facebook -- [md.shakiluzzaman](https://www.facebook.com/shakil.uzzaman.5/)
 
 [Back To Top](#Super-Convergence)
