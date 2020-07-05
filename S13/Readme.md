@@ -40,17 +40,19 @@ OpenCV COCO Objects detection by YOLO files are mentioned below
   - [Colab File](https://github.com/Shakil-1501/TSAI/blob/master/S13/YoloV3Demo.ipynb)
   
   - Annotated Image1
-     * ![Image](https://github.com/jagatabhay/TSAI/blob/master/S13/AnnotateImage01.jpg)
+     * ![Image](https://github.com/Shakil-1501/TSAI/blob/master/S13/AnnotateImage01.jpg)
   
   - Annotated Image2
-     * ![Image](https://github.com/jagatabhay/TSAI/blob/master/S13/AnnotateImage02.jpg)
+     * ![Image](https://github.com/Shakil-1501/TSAI/blob/master/S13/AnnotateImage02.jpg)
    
   - Annotated Image3
-    * ![Image](https://github.com/jagatabhay/TSAI/blob/master/S13/AnnotateImage03.jpg)
+    * ![Image](https://github.com/Shakil-1501/TSAI/blob/master/S13/AnnotateImage03.jpg)
    
   
   
   - Please refer to this video to see all image detection [YouTube](https://www.youtube.com/watch?v=CLZLfb_IASs)
 Facebook
+
 Log in to Facebook | Facebook
+
 Log in to Facebook to start sharing and connecting with your friends, family and people you know.
