@@ -37,6 +37,8 @@ OpenCV COCO Objects detection by YOLO files are mentioned below
   All files related to Custom Dataset training are mentioned below.
   - Reference : [Github Repo1](https://github.com/theschoolofai/YoloV3) and [Github Repo2](https://github.com/miki998/YoloV3_Annotation_Tool)
   - All 500 Images : [Link](https://github.com/Shakil-1501/YoloV3/tree/master/data/customdata/images)
+  
+  - Detailed Repository: [Link](https://github.com/Shakil-1501/YoloV3)
   - [Colab File](https://github.com/Shakil-1501/TSAI/blob/master/S13/YoloV3Demo.ipynb)
   
   - Annotated Image1
