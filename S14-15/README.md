@@ -73,13 +73,15 @@ Foreground Background overlay
    - Image dimensions:(125,125,3)
    - Directory size:2.45 MB
    
-   
+  ### Foreground Mask
  
-
+   - For evey foreground its corresponding mask was created
+   - Using GIMP the foreground was filled with white and background was filled with black
+   - Number of images:100
+   - Image dimensions:(125,125,3)
    
+   ### Foreground Overlayed on Background
    
-
-
-
-
-
+   - For each background
+     - Overlay each foreground randomly 20 times over background
+     - 
