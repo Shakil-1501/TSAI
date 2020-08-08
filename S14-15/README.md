@@ -84,4 +84,29 @@ Foreground Background overlay
    
    - For each background
      - Overlay each foreground randomly 20 times over background
-     - 
+     - Flip the foreground and again overlay it randomly 20 times on background
+   - Number of images: 100*100*2*20 = 400,000
+   - Image dimension:(224,224,3)
+   - Directory size: 4.2 GB
+   
+   ### Depth Map images
+   
+   - For each Foreground overlayed on background its corresponding depth map was generated
+   - A pretrained monecular depth estimation model DenseDepth was used to generate the depth maps
+   - Number of images :400,000
+   - Image dimensions:(224,224)
+   
+   ### Foreground overlayed on Background Mask
+   
+   - For each Foreground overlayed on background its corresponding mask was generated
+   - The mask was created by pasting the foreground mask on a black image at the same position foreground was overlayed
+   - Number of images : 400,000
+   - Image dimensions: (224,224)
+   
+   ## Dataset Link
+   
+   - Link: 
+   
+   |Type||Count|Size|
+   |Background||100||2.5M|4.67|
+   
