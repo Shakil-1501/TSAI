@@ -64,8 +64,18 @@ Foreground Background overlay
    - 100 images of Jungles downloaded from net
    - Each image was resized to 224*224
    - Image dimensions:(224,224,3)
-   - Directory size:4.47
-   - 
+   - Directory size:4.47 MB
+   
+ ### Foreground
+ 
+   - Images of objects with transparent background
+   - 100 images of different animal were downloaded from net
+   - Image dimensions:(125,125,3)
+   - Directory size:2.45 MB
+   
+   
+ 
+
    
    
 
