@@ -33,5 +33,21 @@ Foreground:
 ![fg063](https://user-images.githubusercontent.com/63920152/89711762-e1d8be80-d9a9-11ea-96a2-279c798773bd.jpg)
 ![fg093](https://user-images.githubusercontent.com/63920152/89711763-e2715500-d9a9-11ea-8476-4983bcce5c61.jpg)
 
-Fore
+Foreground Mask
+
+![ms069](https://user-images.githubusercontent.com/63920152/89712293-8c9eac00-d9ad-11ea-876a-450f236e1073.jpg)
+![ms022](https://user-images.githubusercontent.com/63920152/89712286-89a3bb80-d9ad-11ea-9a07-998c53a37b7c.jpg)
+![ms038](https://user-images.githubusercontent.com/63920152/89712287-8a3c5200-d9ad-11ea-9308-b0ddd660e647.jpg)
+![ms045](https://user-images.githubusercontent.com/63920152/89712289-8ad4e880-d9ad-11ea-840b-d188c0013713.jpg)
+![ms046](https://user-images.githubusercontent.com/63920152/89712290-8b6d7f00-d9ad-11ea-84c3-63cda182de43.jpg)
+![ms051](https://user-images.githubusercontent.com/63920152/89712291-8b6d7f00-d9ad-11ea-8b45-77537f73fdb2.jpg)
+![ms063](https://user-images.githubusercontent.com/63920152/89712292-8c061580-d9ad-11ea-9caf-d05017752c92.jpg)
+![ms093](https://user-images.githubusercontent.com/63920152/89712294-8c9eac00-d9ad-11ea-9118-18a27c9463ff.jpg)
+
+
+
+
+
+
+
 
