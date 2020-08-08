@@ -56,6 +56,19 @@ Foreground Background overlay
 ![fg_bg136056](https://user-images.githubusercontent.com/63920152/89713231-f9b54000-d9b3-11ea-832b-432195080ef1.jpg)
 ![fg_bg184068](https://user-images.githubusercontent.com/63920152/89713233-fa4dd680-d9b3-11ea-880e-09db634d303f.jpg)
 
+## Dataset Creation
+
+### Background
+
+   - "Jungles(forest)" images
+   - 100 images of Jungles downloaded from net
+   - Each image was resized to 224*224
+   - Image dimensions:(224,224,3)
+   - Directory size:4.47
+   - 
+   
+   
+
 
 
 
