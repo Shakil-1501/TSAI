@@ -123,6 +123,41 @@ Since we do not have acccess to a depth camera ,we use a pretrained depth model 
    - Image dimension:(224,224,3)
    - Directory size: 4.2 GB
    
+   Source code:
+   
+   ```python
+   import cv2
+import random
+
+j = 0
+for i in range(1,201):  
+    if i>=1 and i<=9:  
+        background = cv2.imread('C:/Users/shakil uz zaman/Downloads/fg125x125/fg125x125/fg00'+str(i)+'.jpg')  
+    elif i>=10 and i<=99:  
+        background = cv2.imread('C:/Users/shakil uz zaman/Downloads/fg125x125/fg125x125/fg0'+str(i)+'.jpg')  
+    else:
+        background = cv2.imread('C:/Users/shakil uz zaman/Downloads/fg125x125/fg125x125/fg'+str(i)+'.jpg')  
+
+
+    for k in range(0,20):  
+        for file in os.listdir('C:/Users/shakil uz zaman/Downloads/bg224x224/'):  
+            foreground = cv2.imread('C:/Users/shakil uz zaman/Downloads/bg224x224/'+file)  
+            b=random.randint(25,99)  
+            c=random.randint(25,99)  
+            rows,cols,channels = background.shape  
+            roi = foreground[b:rows+b, c:cols+c ]  
+            img2gray = cv2.cvtColor(background,cv2.COLOR_BGR2GRAY)  
+            ret, mask = cv2.threshold(img2gray, 240, 255, cv2.THRESH_BINARY_INV)  
+            mask_inv = cv2.bitwise_not(mask)  
+            img1_bg = cv2.bitwise_and(roi,roi,mask = mask_inv)  
+            img2_fg = cv2.bitwise_and(background,background,mask = mask)  
+            dst = cv2.add(img1_bg,img2_fg)  
+            foreground[b:rows+b, c:cols+c] = dst  
+            globals()['j'] = globals()['j']+1  
+            cv2.imwrite('Trial2/fg_bg'+str(globals()['j'])+'.jpg',foreground)
+            
+   ```        
+   
    ### Depth Map images
    
    - For each Foreground overlayed on background its corresponding depth map was generated
