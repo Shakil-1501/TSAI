@@ -12,3 +12,5 @@ Since we do not have acccess to a depth camera ,we use a pretrained depth model 
 
 Background:
 
+![bg001](https://github.com/Shakil-1501/TSAI/tree/master/S14-15/Sample%20Datasets/Background/bg001.jpg)
+
