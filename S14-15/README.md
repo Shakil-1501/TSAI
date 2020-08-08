@@ -19,7 +19,11 @@ Background:
 ![bg051](https://user-images.githubusercontent.com/63920152/89711429-dedcce80-d9a7-11ea-9325-1e15b9b7467b.jpg)
 ![bg052](https://user-images.githubusercontent.com/63920152/89711430-df756500-d9a7-11ea-8d51-646cba51290d.jpg)
 ![bg056](https://user-images.githubusercontent.com/63920152/89711432-df756500-d9a7-11ea-921f-27f7089e83d2.jpg)
-![bg068](https://user-images.githubusercontent.com/63920152/89711433-e00dfb80-d9a7-11ea-9349-998520305a09.jpg)
-![bg087](https://user-images.githubusercontent.com/63920152/89711435-e0a69200-d9a7-11ea-8643-0d3f173e13eb.jpg)
+
+
+Foreground:
+
+
+
 
 
