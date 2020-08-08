@@ -19,11 +19,19 @@ Background:
 ![bg051](https://user-images.githubusercontent.com/63920152/89711429-dedcce80-d9a7-11ea-9325-1e15b9b7467b.jpg)
 ![bg052](https://user-images.githubusercontent.com/63920152/89711430-df756500-d9a7-11ea-8d51-646cba51290d.jpg)
 ![bg056](https://user-images.githubusercontent.com/63920152/89711432-df756500-d9a7-11ea-921f-27f7089e83d2.jpg)
+![bg068](https://user-images.githubusercontent.com/63920152/89711815-3f6d0b00-d9aa-11ea-9512-9bf766a37f03.jpg)
 
 
 Foreground:
 
+![fg001](https://user-images.githubusercontent.com/63920152/89711754-dd140a80-d9a9-11ea-8383-c014ef2a0d24.jpg)
+![fg022](https://user-images.githubusercontent.com/63920152/89711756-deddce00-d9a9-11ea-8ccb-356807f2cc8f.jpg)
+![fg038](https://user-images.githubusercontent.com/63920152/89711758-df766480-d9a9-11ea-9394-db1d9bc21abd.jpg)
+![fg045](https://user-images.githubusercontent.com/63920152/89711759-e00efb00-d9a9-11ea-9298-a0cd5a29cd1b.jpg)
+![fg046](https://user-images.githubusercontent.com/63920152/89711760-e0a79180-d9a9-11ea-8152-49c5f15ec519.jpg)
+![fg051](https://user-images.githubusercontent.com/63920152/89711761-e1402800-d9a9-11ea-9ae0-b1d908c05cf5.jpg)
+![fg063](https://user-images.githubusercontent.com/63920152/89711762-e1d8be80-d9a9-11ea-96a2-279c798773bd.jpg)
+![fg093](https://user-images.githubusercontent.com/63920152/89711763-e2715500-d9a9-11ea-8476-4983bcce5c61.jpg)
 
-
-
+Fore
 
