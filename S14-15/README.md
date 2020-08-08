@@ -56,6 +56,31 @@ Since we do not have acccess to a depth camera ,we use a pretrained depth model 
 ![fg_bg136056](https://user-images.githubusercontent.com/63920152/89713231-f9b54000-d9b3-11ea-832b-432195080ef1.jpg)
 ![fg_bg184068](https://user-images.githubusercontent.com/63920152/89713233-fa4dd680-d9b3-11ea-880e-09db634d303f.jpg)
 
+**Foreground-Background Depth**
+
+![fg_bg42001](https://user-images.githubusercontent.com/63920152/89717491-c505b080-d9d4-11ea-8ed8-bbe3a75b87df.jpg)
+![fg_bg74035](https://user-images.githubusercontent.com/63920152/89717492-c636dd80-d9d4-11ea-9f28-0c372b14fb9a.jpg)
+![fg_bg88042](https://user-images.githubusercontent.com/63920152/89717493-c6cf7400-d9d4-11ea-9e43-c16ef495785f.jpg)
+![fg_bg90046](https://user-images.githubusercontent.com/63920152/89717494-c6cf7400-d9d4-11ea-9361-956048d66bbf.jpg)
+![fg_bg100051](https://user-images.githubusercontent.com/63920152/89717495-c7680a80-d9d4-11ea-862b-549911f25586.jpg)
+![fg_bg124052](https://user-images.githubusercontent.com/63920152/89717497-c800a100-d9d4-11ea-88ee-afad3ed74746.jpg)
+![fg_bg136056](https://user-images.githubusercontent.com/63920152/89717498-c800a100-d9d4-11ea-96bb-7b93cf64544a.jpg)
+![fg_bg184068](https://user-images.githubusercontent.com/63920152/89717499-c8993780-d9d4-11ea-83a7-e3dac1d49985.jpg)
+
+
+
+
+**Foreground-Background Mask**
+
+![fg_bg42001](https://user-images.githubusercontent.com/63920152/89717524-12821d80-d9d5-11ea-8b93-1607e99d8c89.jpg)
+![fg_bg74035](https://user-images.githubusercontent.com/63920152/89717525-13b34a80-d9d5-11ea-93ee-784b1d050087.jpg)
+![fg_bg88042](https://user-images.githubusercontent.com/63920152/89717526-144be100-d9d5-11ea-9966-6553306a6c92.jpg)
+![fg_bg90046](https://user-images.githubusercontent.com/63920152/89717527-14e47780-d9d5-11ea-84ef-60714a4d51cc.jpg)
+![fg_bg100051](https://user-images.githubusercontent.com/63920152/89717528-157d0e00-d9d5-11ea-9860-2ee989c76f46.jpg)
+![fg_bg124052](https://user-images.githubusercontent.com/63920152/89717529-157d0e00-d9d5-11ea-8556-6590e7816490.jpg)
+![fg_bg136056](https://user-images.githubusercontent.com/63920152/89717530-1615a480-d9d5-11ea-98b8-4677f4199066.jpg)
+![fg_bg184068](https://user-images.githubusercontent.com/63920152/89717531-16ae3b00-d9d5-11ea-8a4e-9f7063f4f428.jpg)
+
 ## Dataset Creation
 
 ### Background
@@ -120,5 +145,5 @@ Since we do not have acccess to a depth camera ,we use a pretrained depth model 
    ## Resources
    
    - Code to overlay foreground on background:
-     - 
+     
    
