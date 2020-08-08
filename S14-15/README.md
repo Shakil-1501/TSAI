@@ -10,7 +10,7 @@ Since we do not have acccess to a depth camera ,we use a pretrained depth model 
 
 ## Dataset Samples
 
-Background:
+**Background**:
 
 ![bg001](https://user-images.githubusercontent.com/63920152/89711422-dc7a7480-d9a7-11ea-9f4f-39c307c723bc.jpg)
 ![bg035](https://user-images.githubusercontent.com/63920152/89711424-ddaba180-d9a7-11ea-9da7-7f2bed5251a1.jpg)
@@ -22,7 +22,7 @@ Background:
 ![bg068](https://user-images.githubusercontent.com/63920152/89711815-3f6d0b00-d9aa-11ea-9512-9bf766a37f03.jpg)
 
 
-Foreground:
+**Foreground**:
 
 ![fg001](https://user-images.githubusercontent.com/63920152/89711754-dd140a80-d9a9-11ea-8383-c014ef2a0d24.jpg)
 ![fg022](https://user-images.githubusercontent.com/63920152/89711756-deddce00-d9a9-11ea-8ccb-356807f2cc8f.jpg)
@@ -33,7 +33,7 @@ Foreground:
 ![fg063](https://user-images.githubusercontent.com/63920152/89711762-e1d8be80-d9a9-11ea-96a2-279c798773bd.jpg)
 ![fg093](https://user-images.githubusercontent.com/63920152/89711763-e2715500-d9a9-11ea-8476-4983bcce5c61.jpg)
 
-Foreground Mask
+**Foreground Mask**
 
 
 ![ms022](https://user-images.githubusercontent.com/63920152/89712286-89a3bb80-d9ad-11ea-9a07-998c53a37b7c.jpg)
@@ -45,7 +45,7 @@ Foreground Mask
 ![ms069](https://user-images.githubusercontent.com/63920152/89712293-8c9eac00-d9ad-11ea-876a-450f236e1073.jpg)
 ![ms093](https://user-images.githubusercontent.com/63920152/89712294-8c9eac00-d9ad-11ea-9118-18a27c9463ff.jpg)
 
-Foreground Background overlay
+**Foreground Background overlay**
 
 ![fg_bg42001](https://user-images.githubusercontent.com/63920152/89713224-f5892280-d9b3-11ea-9159-4a266276c086.jpg)
 ![fg_bg74035](https://user-images.githubusercontent.com/63920152/89713225-f6ba4f80-d9b3-11ea-8408-57e4bcff6934.jpg)
@@ -105,8 +105,20 @@ Foreground Background overlay
    
    ## Dataset Link
    
-   - Link: 
+   - Link: xyz
    
-   |Type||Count|Size|
-   |Background||100||2.5M|4.67|
+   
+   |Type      |Count|Size|
+   | -------- | ---- | --- |
+   |**Background** |100  |4.47MB|
+   |**Foreground** |100 |2.45MB|
+   |**Foreground Mask** |100 | do update|
+   |**Foreground-Background** | 400,000 | do update|
+   |**Foreground-Background Mask** | 400,000 | do update|
+   |**Foreground-Background Depth** | 400,000 | do update|
+   
+   ## Resources
+   
+   - Code to overlay foreground on background:
+     - 
    
