@@ -105,6 +105,15 @@ Since we do not have acccess to a depth camera ,we use a pretrained depth model 
    - Number of images:100
    - Image dimensions:(125,125,3)
    
+   Source code:
+   
+   ```python
+   for i in range(1,100):
+        img = cv2.imread('C:/Users/shakil uz zaman/Desktop/foreground/fg0'+str(i)+'.jpg',0)
+        ret,thresh1 = cv2.threshold(img,240,255,cv2.THRESH_BINARY_INV)
+        cv2.imwrite('ms0'+str(i)+'.jpg',thresh1)
+   ```
+   
    ### Foreground Overlayed on Background
    
    - For each background
