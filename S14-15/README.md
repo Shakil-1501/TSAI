@@ -46,16 +46,14 @@ Foreground Mask
 
 Foreground Background overlay
 
-> my namr is shakil \
-  jjkgjh
-
-> hola \
-hsdjf
-
->jjdjff
-
->hjjdgf
-
+![fg_bg42001](https://user-images.githubusercontent.com/63920152/89713224-f5892280-d9b3-11ea-9159-4a266276c086.jpg)
+![fg_bg74035](https://user-images.githubusercontent.com/63920152/89713225-f6ba4f80-d9b3-11ea-8408-57e4bcff6934.jpg)
+![fg_bg88042](https://user-images.githubusercontent.com/63920152/89713226-f752e600-d9b3-11ea-917b-2e37db1e13de.jpg)
+![fg_bg90046](https://user-images.githubusercontent.com/63920152/89713228-f7eb7c80-d9b3-11ea-923c-2ecd49d6c234.jpg)
+![fg_bg100051](https://user-images.githubusercontent.com/63920152/89713229-f8841300-d9b3-11ea-8841-d707bbf088a7.jpg)
+![fg_bg124052](https://user-images.githubusercontent.com/63920152/89713230-f91ca980-d9b3-11ea-870b-ba124665bd75.jpg)
+![fg_bg136056](https://user-images.githubusercontent.com/63920152/89713231-f9b54000-d9b3-11ea-832b-432195080ef1.jpg)
+![fg_bg184068](https://user-images.githubusercontent.com/63920152/89713233-fa4dd680-d9b3-11ea-880e-09db634d303f.jpg)
 
 
 
