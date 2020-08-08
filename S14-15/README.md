@@ -189,5 +189,9 @@ for i in range(1,201):
    ## Resources
    
    - Code to overlay foreground on background:
+   
+   ## Authors INFO
+   
+   -[![](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/md-shakiluzzaman-894707129)
      
    
