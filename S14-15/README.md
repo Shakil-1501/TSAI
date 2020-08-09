@@ -176,8 +176,7 @@ for i in range(1,201):
    ## Dataset Link
    
    - Link: xyz
-   
-   
+      
    |Type      |Count|Size|
    | -------- | ---- | --- |
    |**Background** |100  |4.47MB|
@@ -186,6 +185,11 @@ for i in range(1,201):
    |**Foreground-Background** | 400,000 | do update|
    |**Foreground-Background Mask** | 400,000 | do update|
    |**Foreground-Background Depth** | 400,000 | do update|
+   
+   ## Dataset Summary
+   
+   ![DatasetsCharts](https://user-images.githubusercontent.com/63920152/89726322-da132b80-da36-11ea-93d6-341f5d23f372.JPG)
+
    
    ## Resources
    
