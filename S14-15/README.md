@@ -194,7 +194,7 @@ for i in range(1,201):
    |**Foreground Mask** |100 | 2MB|
    |**Foreground-Background** | 400,000 | 14GB|
    |**Foreground-Background Mask** | 400,000 | -|
-   |**Foreground-Background Depth** | 400,000 | |
+   |**Foreground-Background Depth** | 400,000 |13GB |
    
    ## Dataset Summary
    
