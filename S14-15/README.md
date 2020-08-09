@@ -198,12 +198,45 @@ for i in range(1,201):
    
    ## Dataset Summary
    
+   ```python
+import torch
+import torchvision
+
+dataset = torchvision.datasets.ImageFolder('gdrive/My Drive/root',
+                                           transform = torchvision.transforms.ToTensor() 
+                                           )
+
+dataloader = torch.utils.data.DataLoader(dataset ,
+                                         batch_size = 1,
+                                         shuffle = True,
+                                         num_workers = 1 , 
+                                         pin_memory = True 
+                                        )
+images , _ = iter(dataloader).next()
+
+def get_mean_and_std(image):
+  mean = torch.zeros(3)
+  std = torch.zeros(3)
+  for i in range(3):
+      mean[i] += image[:, i, :, :].mean()
+      std[i] += image[:,i, :, :].std()
+  return mean , std 
+  
+mean , std = get_mean_and_std(images)
+print('Mean : ',mean)
+print('Std : ',std)
+   
+   
+   
+   ```
+   
+   
    ![DatasetsCharts](https://user-images.githubusercontent.com/63920152/89726322-da132b80-da36-11ea-93d6-341f5d23f372.JPG)
    
    
    ## Model
    
-   Model:Densenet 169 model
+   U-Net Architecture Model is used to train on the data set. In the UNET architecture downsampling ( encoder ) DENSENET-169 is used and Decoder ( Upsampling ) Images is croped    from the densenet block and then concatenated as mentioned in the original paper.
    
    Batch Size:4
    
