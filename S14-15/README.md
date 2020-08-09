@@ -238,11 +238,13 @@ print('Std : ',std)
    
    U-Net Architecture Model is used to train on the data set. In the UNET architecture downsampling ( encoder ) DENSENET-169 is used and Decoder ( Upsampling ) Images is croped    from the densenet block and then concatenated as mentioned in the original paper.
    
-   Batch Size:4
+   -Batch Size:4
    
-   Epochs:20
+   -Epochs:20
    
-   Images trained:20,000
+   -Images trained:20,000
+   
+   -Learning Rate : 0.0001
 
    We are taking Structural Similarity Index as loss function
    
