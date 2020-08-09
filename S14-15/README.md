@@ -275,6 +275,6 @@ for i in range(1,201):
    
    Email : md.shakiluzzaman@gmail.com
    
-   -[![](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/md-shakiluzzaman-894707129)
+   -[![](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/md-shakiluzzaman-894707129/)
      
    
