@@ -191,10 +191,10 @@ for i in range(1,201):
    | -------- | ---- | --- |
    |**Background** |100  |4.47MB|
    |**Foreground** |100 |2.45MB|
-   |**Foreground Mask** |100 | do update|
-   |**Foreground-Background** | 400,000 | do update|
-   |**Foreground-Background Mask** | 400,000 | do update|
-   |**Foreground-Background Depth** | 400,000 | do update|
+   |**Foreground Mask** |100 | 2MB|
+   |**Foreground-Background** | 400,000 | 14GB|
+   |**Foreground-Background Mask** | 400,000 | -|
+   |**Foreground-Background Depth** | 400,000 | |
    
    ## Dataset Summary
    
