@@ -199,6 +199,65 @@ for i in range(1,201):
    ## Dataset Summary
    
    ![DatasetsCharts](https://user-images.githubusercontent.com/63920152/89726322-da132b80-da36-11ea-93d6-341f5d23f372.JPG)
+   
+   
+   ## Model
+   
+   Model:Densenet 169 model
+   
+   Batch Size:4
+   
+   Epochs:20
+   
+   Images trained:20,000
+
+   We are taking Structural Similarity Index as loss function
+   
+     !python train.py --data nyu --bs 4 --full --dnetVersion small
+     
+   **Logs**
+   
+      Epoch 1/20
+      250/250 [==============================] - 332s 1s/step - loss: 0.2110 - val_loss: 18.7512
+      Epoch 2/20
+      250/250 [==============================] - 268s 1s/step - loss: 0.1611 - val_loss: 18.7269
+      Epoch 3/20
+      250/250 [==============================] - 267s 1s/step - loss: 0.1476 - val_loss: 18.7756
+      Epoch 4/20
+      250/250 [==============================] - 269s 1s/step - loss: 0.1373 - val_loss: 18.7424
+      Epoch 5/20
+      250/250 [==============================] - 268s 1s/step - loss: 0.1285 - val_loss: 18.7604
+      Epoch 6/20
+      250/250 [==============================] - 268s 1s/step - loss: 0.1210 - val_loss: 18.7255
+      Epoch 7/20
+      250/250 [==============================] - 268s 1s/step - loss: 0.1162 - val_loss: 18.7370
+      Epoch 8/20
+      250/250 [==============================] - 267s 1s/step - loss: 0.1126 - val_loss: 18.7351
+      Epoch 9/20
+      250/250 [==============================] - 268s 1s/step - loss: 0.1067 - val_loss: 18.7834
+      Epoch 10/20
+      250/250 [==============================] - 267s 1s/step - loss: 0.1028 - val_loss: 18.7484
+      Epoch 11/20
+      250/250 [==============================] - 267s 1s/step - loss: 0.0986 - val_loss: 18.7541
+      Epoch 12/20
+      250/250 [==============================] - 268s 1s/step - loss: 0.0958 - val_loss: 18.7167
+      Epoch 13/20
+      250/250 [==============================] - 266s 1s/step - loss: 0.0936 - val_loss: 18.7412
+      Epoch 14/20
+      250/250 [==============================] - 267s 1s/step - loss: 0.0919 - val_loss: 18.7488
+      Epoch 15/20
+      250/250 [==============================] - 268s 1s/step - loss: 0.0900 - val_loss: 18.7129
+      Epoch 16/20
+      250/250 [==============================] - 267s 1s/step - loss: 0.0893 - val_loss: 18.7268
+      Epoch 17/20
+      250/250 [==============================] - 267s 1s/step - loss: 0.0851 - val_loss: 18.7367
+      Epoch 18/20
+      250/250 [==============================] - 268s 1s/step - loss: 0.0828 - val_loss: 18.7249
+      Epoch 19/20
+      250/250 [==============================] - 267s 1s/step - loss: 0.0820 - val_loss: 18.7354
+      Epoch 20/20
+      250/250 [==============================] - 266s 1s/step - loss: 0.0803 - val_loss: 18.7336
+
 
    
    ## Resources
