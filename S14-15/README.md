@@ -25,13 +25,13 @@ Since we do not have acccess to a depth camera ,we use a pretrained depth model 
 
 **Foreground**:
 
-![fg001](https://user-images.githubusercontent.com/63920152/89711754-dd140a80-d9a9-11ea-8383-c014ef2a0d24.jpg)
 ![fg022](https://user-images.githubusercontent.com/63920152/89711756-deddce00-d9a9-11ea-8ccb-356807f2cc8f.jpg)
 ![fg038](https://user-images.githubusercontent.com/63920152/89711758-df766480-d9a9-11ea-9394-db1d9bc21abd.jpg)
 ![fg045](https://user-images.githubusercontent.com/63920152/89711759-e00efb00-d9a9-11ea-9298-a0cd5a29cd1b.jpg)
 ![fg046](https://user-images.githubusercontent.com/63920152/89711760-e0a79180-d9a9-11ea-8152-49c5f15ec519.jpg)
 ![fg051](https://user-images.githubusercontent.com/63920152/89711761-e1402800-d9a9-11ea-9ae0-b1d908c05cf5.jpg)
 ![fg063](https://user-images.githubusercontent.com/63920152/89711762-e1d8be80-d9a9-11ea-96a2-279c798773bd.jpg)
+![fg069](https://user-images.githubusercontent.com/63920152/89726357-66bde980-da37-11ea-9903-0d192bfdf19a.jpg)
 ![fg093](https://user-images.githubusercontent.com/63920152/89711763-e2715500-d9a9-11ea-8476-4983bcce5c61.jpg)
 
 **Foreground Mask**
