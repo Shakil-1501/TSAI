@@ -204,6 +204,13 @@ for i in range(1,201):
    ## Resources
    
    - Code to overlay foreground on background:
+    - [![](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)]()
+    
+   - Code to generate depth maps for foreground overlayed on background
+    - [![](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/Shakil-1501/TSAI/blob/master/S14-15/DenseDepth.ipynb)
+    
+   - Code to compute data statistics
+    - [![](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/Shakil-1501/TSAI/blob/master/S14-15/DatasetStats_bg.ipynb) [![](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/Shakil-1501/TSAI/blob/master/S14-15/DatasetStats_fb.ipynb) [![](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/Shakil-1501/TSAI/blob/master/S14-15/DatasetStats_fgbg.ipynb)  [![](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/Shakil-1501/TSAI/blob/master/S14-15/DatasetStats_fgbgdepth.ipynb)  [![](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/Shakil-1501/TSAI/blob/master/S14-15/DatasetStats_fgbgmask.ipynb) [![](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/Shakil-1501/TSAI/blob/master/S14-15/DatasetStats_fgmask.ipynb)
    
    ## Authors INFO
    
