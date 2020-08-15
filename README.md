@@ -15,4 +15,37 @@
 - Python
 - Pytorch and basics of Opencv
 
-:arrow
+<details>
+<summary>ML Intituation and basics of CNN</summary>
+
+![Work-Link]()
+
+</details>
+
+<details>
+<summary>Neural Architecture</summary>
+
+![Work-Link]()
+
+</details>
+
+<details>
+<summary>Kernels,Convolutions and Activation Function</summary>
+
+![Work-Link]()
+
+</details>
+
+<details>
+<summary>Architecture Basics</summary>
+
+![Work-Link]()
+
+</details>
+
+<details>
+<summary>Model Implementation</summary>
+
+![Work-Link]()
+
+</details>
