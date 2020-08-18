@@ -33,12 +33,16 @@ Have you ever wondered, like why do we only use 3x3 kernels ? i had always wonde
 
 [Work-Link]()
 
+This describes the basic neural network architecure, see its page for details
+
 </details>
 
 <details>
 <summary>Kernels,Convolutions and Activation Function</summary>
 
 [Work-Link]()
+
+Basic Pytorch architecture for working with neural networks, introduces you to nn.Module, optimizers, forward and backward pass, datasets, how to apply simple augmentation.
 
 </details>
 
@@ -47,12 +51,16 @@ Have you ever wondered, like why do we only use 3x3 kernels ? i had always wonde
 
 [Work-Link]()
 
+Here we had to train MNIST to get 99.4% accuracy with some given contraints, was quite fun to do this, got me out of the noob shell of what a neural network actually is and what it does, because i had to write code manually, not copy paste any more.
+
 </details>
 
 <details>
 <summary>Model Implementation</summary>
 
 [Work-Link]()
+
+This was very important to realise the basic steps required to make a neural network and then go on to optimize it, to get the perfect model size and accuracy, very important, please see its documentation, and all the notebooks
 
 </details>
 
