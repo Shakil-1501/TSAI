@@ -49,3 +49,66 @@
 [Work-Link]()
 
 </details>
+
+<details>
+<summary>Batch Normalization and Regularization</summary>
+
+[Work-Link]()
+
+</details>
+
+<details>
+<summary>Advanced Convolutions</summary>
+
+[Work-Link]()
+
+</details>
+
+<details>
+<summary>Receptive Fields and different Network Architecture</summary>
+
+[Work-Link]()
+
+</details>
+
+<details>
+<summary>Data Augmentation</summary>
+
+[Work-Link]()
+
+</details>
+
+<details>
+<summary>Training and Learning Rates</summary>
+
+[Work-Link]()
+
+</details>
+
+<details>
+<summary>Super-Convergence</summary>
+
+[Work-Link]()
+
+</details>
+
+<details>
+<summary>Object Localization</summary>
+
+[Work-Link]()
+
+</details>
+
+<details>
+<summary>YOLO-2 & 3</summary>
+
+[Work-Link]()
+
+</details>
+
+<details>
+<summary>RCNN</summary>
+
+[Work-Link]()
+
+</details>
