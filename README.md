@@ -98,7 +98,7 @@ Here i was introduced to ResNet18 and CIFAR dataset with aim to get 85% test acc
 
 [Work-Link]()
 
-This was amazing, i was introduced to GradCAM, and i myself learnt about saliency map, this was something i also used in my college group project, it's used to diagnosing if the model is actually learning anything from the dataset. Quite a nifty feature, eh ?
+This was amazing, i was introduced to GradCAM, and i myself learnt about saliency map
 
 
 
