@@ -69,12 +69,16 @@ This was very important to realise the basic steps required to make a neural net
 
 [Work-Link]()
 
+This  focuses on the importance of normalization and regularization in neural networks, aim was to also get > 99.4% accuracy in less than 40 epochs for MNIST with limited model parameters
+
 </details>
 
 <details>
 <summary>Advanced Convolutions</summary>
 
 [Work-Link]()
+
+Here i was introduced to various convolution types you can add in the network, we were given a custom network which we had to implement, also we had to make a custom library of python to support and ease the process of NN building and training,
 
 </details>
 
@@ -83,12 +87,20 @@ This was very important to realise the basic steps required to make a neural net
 
 [Work-Link]()
 
+Here i was introduced to ResNet18 and CIFAR dataset with aim to get 85% test accuracy
+
+
+
 </details>
 
 <details>
 <summary>Data Augmentation</summary>
 
 [Work-Link]()
+
+This was amazing, i was introduced to GradCAM, and i myself learnt about saliency map, this was something i also used in my college group project, it's used to diagnosing if the model is actually learning anything from the dataset. Quite a nifty feature, eh ?
+
+
 
 </details>
 
@@ -97,12 +109,16 @@ This was very important to realise the basic steps required to make a neural net
 
 [Work-Link]()
 
+Here i had to use LR Finder to find the best learning rate for the model, i also used OneCyclePolicy for faster convergence. i reached 92.03% accuracy in CIFAR using ResNet18
+
 </details>
 
 <details>
 <summary>Super-Convergence</summary>
 
 [Work-Link]()
+
+A custom architecture was implemented here, along with that i used OneCycleLR to improve the convergence of the NN
 
 </details>
 
@@ -111,6 +127,10 @@ This was very important to realise the basic steps required to make a neural net
 
 [Work-Link]()
 
+Here we had to do image annotation and collect doggo dataset.
+
+Also i had to make a custom dataloader and dataset class in PyTorch to support TinyImageNet, and then train a model to reach 60% accuracy, which i failed to, but still i learnt from my mistakes ! the one who doesnt make mistakes does really make anything does he ?
+
 </details>
 
 <details>
@@ -118,11 +138,19 @@ This was very important to realise the basic steps required to make a neural net
 
 [Work-Link]()
 
+I was introduced to YOLO, something i always wondered how it exactly worked, and why is it called YOLO ? now i understand why. and people complain about the FPS of YOLO, now i know why, they dont pay attention to the anchor boxes, which is very important and its different for different datasets.
+
+I made a custom Bugs Bunny detector using the YOLO architecture :) i like my detector :) i like bugs bunny :) i custom collected bugs bunny images, self annotated about 600 images of my bunny and trained the network for like 5 hours on a Tesla P100
+
 </details>
 
 <details>
 <summary>RCNN</summary>
 
 [Work-Link]()
+
+I was introduced to RCNN family and SSD, but that wasnt the main thing here.
+
+The main thing was that i created a dataset containing 1.2M images ! do you understand how crazy that is ? this was a pre-req for the upcoming CapStone project which will be to do object segmentation and also monocular depth estimation both at the same time.
 
 </details>
