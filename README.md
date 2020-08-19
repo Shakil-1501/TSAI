@@ -8,7 +8,8 @@
 
 ## REPO Discription
 
-   This repository is all about Computer Vision on Pytorch Framework
+   This repository is all about Computer Vision on Pytorch Framework.Computer Vision is basically the techniques to help computer see and understand the content of digital
+   Images and videos which was so fascinating for me.In this repo I have shared my journey of exploration  of CNN using pytorch Framework in the field of Computer Vision. 
 
 ## Prerequisite
 
@@ -20,7 +21,7 @@
 
 [Work-Link]()
 
-This describes the very basics of Python, i would recommend binge watching Raymond Hettinger's YouTube Videos, as much as you can, also learn list comprehension, slicing, partial, functools, functional programming, classes, MRO, decorators, lambdas, python 3 typing
+This describes the very basics of Python, i would recommend binge watching Raymond Hettinger's YouTube Videos and Telusko videos, as much as you can, also learn list comprehension, slicing, partial, functools, functional programming, classes, MRO, decorators, lambdas, python 3 typing
 
 Also here i learnt the basics of how a Neural Network learns, how the different channels are formed, what are kernels, how does the DNN make sense of the input it gets, and more !
 
@@ -33,7 +34,7 @@ Have you ever wondered, like why do we only use 3x3 kernels ? i had always wonde
 
 [Work-Link]()
 
-This describes the basic neural network architecure, see its page for details
+This describes the basic neural network architecure and overview of how convolution works
 
 </details>
 
@@ -42,7 +43,7 @@ This describes the basic neural network architecure, see its page for details
 
 [Work-Link]()
 
-Basic Pytorch architecture for working with neural networks, introduces you to nn.Module, optimizers, forward and backward pass, datasets, how to apply simple augmentation.
+Basic Pytorch architecture for working with neural networks, introduces you to structure of model how it is framed using nn.Module, optimizers, forward and backward pass,softmax, datasets, how to apply simple augmentation.
 
 </details>
 
@@ -129,8 +130,7 @@ A custom architecture was implemented here, along with that i used OneCycleLR to
 
 Here we had to do image annotation and collect doggo dataset.
 
-Also i had to make a custom dataloader and dataset class in PyTorch to support TinyImageNet, and then train a model to reach 60% accuracy, which i failed to, but still i learnt from my mistakes ! the one who doesnt make mistakes does really make anything does he ?
-
+Also i had to make a custom dataloader and dataset class in PyTorch to support TinyImageNet, and then train a model to reach 60% accuracy
 </details>
 
 <details>
@@ -140,7 +140,7 @@ Also i had to make a custom dataloader and dataset class in PyTorch to support T
 
 I was introduced to YOLO, something i always wondered how it exactly worked, and why is it called YOLO ? now i understand why. and people complain about the FPS of YOLO, now i know why, they dont pay attention to the anchor boxes, which is very important and its different for different datasets.
 
-I made a custom Bugs Bunny detector using the YOLO architecture :) i like my detector :) i like bugs bunny :) i custom collected bugs bunny images, self annotated about 600 images of my bunny and trained the network for like 5 hours on a Tesla P100
+Here used opencv yolo for object detection of my image with objects in the background.Created the custom dataset and trained it further  on YOLO v3. for details see the folder in the repo.
 
 </details>
 
