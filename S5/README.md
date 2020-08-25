@@ -45,11 +45,11 @@ So we had divided the problems into multiple parts and then tried to
  ( We obtained this by hit and trail and upon rigorous analysing ).
 
 
-Well "Excess of Anything is not Bad. It is Worst ....!! ".
-Same thing happens to us.
-But it is worth for someone, who is in a learning phase.
+  Well "Excess of Anything is not Bad. It is Worst ....!! ".
+  Same thing happens to us.
+  But it is worth for someone, who is in a learning phase.
 
-But tried multiple ways to achieve the target.
+  But tried multiple ways to achieve the target.
 
 ## Points to Remember
 
