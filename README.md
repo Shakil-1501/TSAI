@@ -154,3 +154,9 @@ I was introduced to RCNN family and SSD, but that wasnt the main thing here.
 The main thing was that i created a dataset containing 1.2M images ! do you understand how crazy that is ? this was a pre-req for the upcoming CapStone project which will be to do object segmentation and also monocular depth estimation both at the same time.
 
 </details>
+
+## Authors INFO
+   
+   Email : md.shakiluzzaman@gmail.com
+   
+   -[![](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/md-shakiluzzaman-894707129/)
