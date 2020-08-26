@@ -18,9 +18,9 @@ Take our 5th session code
 - We  will not be running your code 8 times manually . We need to be smarter and write a single loop or iterator to iterate through these conditions. 
 - draw ONE graph to show the validation accuracy curves for all 8 jobs above. This graph must have proper legends and it should be clear what we are looking at. 
 - draw ONE graph to show the loss change curves for all 8 jobs above. This graph must have proper legends and it should be clear what we are looking at. 
-- find any 25 misclassified images for "without L1/L2 with BN" AND "without L1/L2 with GBN" model. You should be using the saved model from the above jobs. 
-  and L2 models. You MUST show the actual and predicted class names.
-- make all the images available on Github Readme page, so you can upload the images for your assignment (you can upload them somewhere else as well for add image url).
+- find any 25 misclassified images for "without L1/L2 with BN" AND "without L1/L2 with GBN" model. We should be using the saved model from the above jobs. 
+  and L2 models. We must show the actual and predicted class names.
+- make all the images available on Github Readme page, so we can upload the images for your assignment (We can upload them somewhere else as well for add image url).
 
 ------------------Testing Accuracy Analysis -------------------
 
