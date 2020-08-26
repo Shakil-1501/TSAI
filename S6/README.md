@@ -5,7 +5,7 @@
 ## Objective
 
 Take our 5th session code
-- run your model for 25 epochs for each:
+- run the model for 25 epochs for each:
   - without L1/L2 with BN
   - without L1/L2 with GBN
   - with L1 with BN
