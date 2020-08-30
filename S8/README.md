@@ -1,5 +1,7 @@
 # Sesssion : 8
 
+![GitHub top language](https://img.shields.io/github/languages/top/Shakil-1501/TSAI?label=Python)     ![Maintenance](https://img.shields.io/maintenance/yes/2020?logo=Github)          ![GitHub last commit](https://img.shields.io/github/last-commit/Shakil-1501/TSAI)   ![GitHub contributors](https://img.shields.io/github/contributors/SHAKIL-1501/TSAI) ![GitHub](https://img.shields.io/github/license/SHAKIL-1501/TSAI)
+
 ## Objective 
 
  To Achieve 85% accuracy by training ResNet-18 Model on cifar10 dataset.
@@ -56,3 +58,9 @@ Finished Training
 
 
 To Load and Run our Model . Kindly run the File : [link](https://github.com/Shakil-1501/TSAI/blob/master/S7/S7_Assignment.ipynb) in google Colab and when asked upload the RestNetModel.py
+
+## Authors INFO
+   
+   Email : md.shakiluzzaman@gmail.com
+   
+   -[![](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/md-shakiluzzaman-894707129/)
