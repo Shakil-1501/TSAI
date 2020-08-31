@@ -18,5 +18,5 @@ Submit answers to S9-Assignment-Solution.
 
 ## Results
 
-Gradcam implemented.
-Accuracy Achieved 88%
+- Gradcam implemented.
+- Accuracy Achieved 88%
