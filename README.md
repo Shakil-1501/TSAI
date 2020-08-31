@@ -6,7 +6,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Shakil-1501/TSAI)
 
 
-## REPO Discription
+## REPO Description
 
    This repository is all about Computer Vision on Pytorch Framework.Computer Vision is basically the techniques to help computer see and understand the content of digital
    Images and videos which was so fascinating for me.In this repo I have shared my journey of exploration  of CNN using pytorch Framework in the field of Computer Vision. 
