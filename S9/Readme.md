@@ -16,6 +16,14 @@ Your final code (notebook file) must use imported functions to implement transfo
 
 Target Accuracy is 87% .
 
+## Image Augmentation techniques used
+
+- RandomHorizontalFlip(p=0.5),
+- RandomCrop(32, padding=2),
+- transforms.ColorJitter(brightness=0.1, contrast=0.1,saturation=0.1,hue=0.1),
+- transforms.ToTensor(),
+- transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
+
 ## Model Training
 
 ```
