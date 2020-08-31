@@ -16,6 +16,33 @@ Your final code (notebook file) must use imported functions to implement transfo
 
 Target Accuracy is 87% .
 
+## Model Training
+
+```
+[1,   900] loss: 1.595
+[2,   900] loss: 0.977
+[3,   900] loss: 0.737
+[4,   900] loss: 0.630
+[5,   900] loss: 0.536
+[6,   900] loss: 0.482
+[7,   900] loss: 0.431
+[8,   900] loss: 0.394
+[9,   900] loss: 0.365
+[10,   900] loss: 0.343
+[11,   900] loss: 0.313
+[12,   900] loss: 0.298
+[13,   900] loss: 0.277
+[14,   900] loss: 0.254
+[15,   900] loss: 0.246
+[16,   900] loss: 0.233
+[17,   900] loss: 0.217
+[18,   900] loss: 0.205
+[19,   900] loss: 0.195
+[20,   900] loss: 0.185
+Finished Training
+
+```
+
 
 ## Results
 
