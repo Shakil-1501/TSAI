@@ -21,3 +21,9 @@ Target Accuracy is 87% .
 
 - Gradcam implemented.
 - Accuracy Achieved 88%
+
+ ## Authors INFO
+   
+   Email : md.shakiluzzaman@gmail.com
+   
+   -[![](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/md-shakiluzzaman-894707129/)
