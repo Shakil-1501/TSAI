@@ -14,7 +14,6 @@ Your final code (notebook file) must use imported functions to implement transfo
 
 Target Accuracy is 87% .
 
-Submit answers to S9-Assignment-Solution.
 
 ## Results
 
