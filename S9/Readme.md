@@ -1,8 +1,8 @@
-Session : 9
+# Session : 9
 
-Topic : Data Augmentation on cifar dataset using Resnet18 model in pytorch
+## Topic : Data Augmentation on cifar dataset using Resnet18 model in pytorch
 
-Targets:
+## Targets:
 
 Move your last code's transformations to Albumentations. Apply ToTensor, HorizontalFlip, Normalize (at min) + More (for additional points)
 
@@ -16,7 +16,7 @@ Target Accuracy is 87% .
 
 Submit answers to S9-Assignment-Solution.
 
-Test Stats
+## Results
 
 Gradcam implemented.
 Accuracy Achieved 88%
