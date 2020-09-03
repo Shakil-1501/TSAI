@@ -1,4 +1,6 @@
-# Session : 11                  
+# Session : 11     
+
+![GitHub top language](https://img.shields.io/github/languages/top/Shakil-1501/TSAI?label=Python)     ![Maintenance](https://img.shields.io/maintenance/yes/2020?logo=Github)          ![GitHub last commit](https://img.shields.io/github/last-commit/Shakil-1501/TSAI)   ![GitHub contributors](https://img.shields.io/github/contributors/SHAKIL-1501/TSAI) ![GitHub](https://img.shields.io/github/license/SHAKIL-1501/TSAI)
 
 # Super Convergence
 
@@ -73,7 +75,9 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 
    ![Zig-Zag Curve](https://github.com/Shakil-1501/TSAI/blob/master/S11/zigzag.png)
    
-Author Info :
-- Facebook -- [md.shakiluzzaman](https://www.facebook.com/shakil.uzzaman.5/)
-
+ ## Authors INFO
+   
+   Email : md.shakiluzzaman@gmail.com
+   
+   -[![](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/md-shakiluzzaman-894707129/)
 [Back To Top](#Super-Convergence)
