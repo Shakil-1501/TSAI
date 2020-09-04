@@ -1,9 +1,8 @@
-### Authors Info
 
-- Email : md.shakiluzzaman@gmail.com
-- Facebook : [Facebook](https://facebook.com/shakil.uzzaman.5)
 
 # Session: 13 Yolo V3 Object Detection
+
+![GitHub top language](https://img.shields.io/github/languages/top/Shakil-1501/TSAI?label=Python)     ![Maintenance](https://img.shields.io/maintenance/yes/2020?logo=Github)          ![GitHub last commit](https://img.shields.io/github/last-commit/Shakil-1501/TSAI)   ![GitHub contributors](https://img.shields.io/github/contributors/SHAKIL-1501/TSAI) ![GitHub](https://img.shields.io/github/license/SHAKIL-1501/TSAI)
 
 
 ## Objective1:
@@ -53,8 +52,8 @@ OpenCV COCO Objects detection by YOLO files are mentioned below
   
   
   - Please refer to this video to see all image detection [YouTube](https://www.youtube.com/watch?v=CLZLfb_IASs)
-Facebook
+  
+### Authors Info
 
-Log in to Facebook | Facebook
-
-Log in to Facebook to start sharing and connecting with your friends, family and people you know.
+- Email : md.shakiluzzaman@gmail.com
+- Facebook : [Facebook](https://facebook.com/shakil.uzzaman.5)
