@@ -14,3 +14,19 @@
 - Download JSON file. 
 - Describe the contents of this JSON file in FULL details (you don't need to describe all 10 instances, anyone would work). 
 - Refer to this tutorial (Links to an external site.). Find out the best total numbers of clusters. Upload link to your Colab File uploaded to GitHub. 
+
+
+### Approach for Assignment A
+
+- The code is made modular by keeping traindatest,testdataset and dataset loader as seperate file
+- Downloading TINY IMAGENET dataset 
+- Using SGD optimizer and cross EntropyLoss  as loss function
+- Using LR Finder as scheduler
+- Train Resnet18 on this dataset for 20 epochs.
+
+### Results:
+
+- Accuracy of the Network on the 10000 test images: 53 %
+
+### Approach for Assignment B
+
