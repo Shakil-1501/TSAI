@@ -36,3 +36,7 @@ statistics graph
 
 ![2](https://user-images.githubusercontent.com/63920152/92770037-2eebee00-f3b7-11ea-9dcd-ad182947915f.png)
 
+### Results
+
+- we can see  no of cluster equal to 7 is the most effective keeping in mind  IOU and through elbow mwthod
+
