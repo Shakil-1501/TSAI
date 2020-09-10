@@ -30,3 +30,9 @@
 
 ### Approach for Assignment B
 
+statistics graph
+
+![1](https://user-images.githubusercontent.com/63920152/92770027-2c899400-f3b7-11ea-8f86-d80e3f841134.png)
+
+![2](https://user-images.githubusercontent.com/63920152/92770037-2eebee00-f3b7-11ea-9dcd-ad182947915f.png)
+
