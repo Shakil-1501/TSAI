@@ -118,7 +118,16 @@ class train_transforms():
 Finished Training
 
 ```
+### Graphs
+
+![3](https://user-images.githubusercontent.com/63920152/92776164-a07a6b00-f3bc-11ea-9e8b-d4b1c6d2f286.png)
+
 ## Results
 
 - Accuracy of the network on the 10000 test images: 85 %
  
+## Authors INFO
+   
+   Email : md.shakiluzzaman@gmail.com
+   
+   -[![](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/md-shakiluzzaman-894707129/)
