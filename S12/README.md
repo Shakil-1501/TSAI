@@ -1,5 +1,7 @@
 # Session : 12
 
+![GitHub top language](https://img.shields.io/github/languages/top/Shakil-1501/TSAI?label=Python)     ![Maintenance](https://img.shields.io/maintenance/yes/2020?logo=Github)          ![GitHub last commit](https://img.shields.io/github/last-commit/Shakil-1501/TSAI)   ![GitHub contributors](https://img.shields.io/github/contributors/SHAKIL-1501/TSAI) ![GitHub](https://img.shields.io/github/license/SHAKIL-1501/TSAI)
+
 ## Objective
 
 ### Assignment A:
@@ -40,3 +42,8 @@ statistics graph
 
 - we can see  no of cluster equal to 7 is the most effective keeping in mind  IOU and through elbow mwthod
 
+ ## Authors INFO
+   
+   Email : md.shakiluzzaman@gmail.com
+   
+   -[![](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/md-shakiluzzaman-894707129/)
